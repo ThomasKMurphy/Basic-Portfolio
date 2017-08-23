@@ -1,3 +1,3 @@
 # Basic-Portfolio
 
-Portfolio for Homework 1
+Raw CSS Portfolio
